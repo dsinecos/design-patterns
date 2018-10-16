@@ -1,0 +1,27 @@
+{
+  "name": "node-project-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code to start a new project in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "tests": "./node_modules/mocha/bin/mocha --watch ./tests"
+  },
+  "author": "Divyanshu Singh <dsinecos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "debug": "^4.1.0",
+    "dotenv": "^6.1.0",
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "jsdoc": "^3.5.5",
+    "jsdoc-to-markdown": "^4.0.1",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.4",
+    "sinon": "^7.0.0"
+  }
+}
