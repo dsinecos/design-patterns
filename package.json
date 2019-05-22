@@ -8,7 +8,11 @@
   },
   "author": "Divyanshu Singh <dsinecos@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "yaml": "^1.5.1"
+  },
   "devDependencies": {
     "chai": "^4.2.0",
     "debug": "^4.1.0",
